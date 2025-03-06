@@ -12,7 +12,7 @@ import page.object.profilePage;
 
 import java.time.Duration;
 
-public class loginTests {
+public class loginTests_object {
     private final String PASSWORD = "TGdd7EDby83jdAC";
     private WebDriver webDriver;
 
